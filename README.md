@@ -23,5 +23,3 @@ New templates can be created for pages that serve different purposes, but for ri
 
 ## Ready to get started?
 Make a new page! <a href="https://github.com/ATARC-Example/ATARC-demo/new/master/_pages">New Page</a>
-
-Did I build?
