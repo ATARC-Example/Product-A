@@ -7,25 +7,22 @@ collections:
   pages:
     output: true
     permalink: /:path/
-  working_groups:
-    output: true
-    permalink: /:path
 
 # Title
-name: ATARC-Demo
-subtitle: ATARC demo utilizing Jekyll and 18F guides
+name: Product-A
+subtitle: Example of product as a guide.
 
 # When using this template with a project page set the baseurl to '/project-name'
 # For user/organization pages set this to an empty string
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
 # See http://jekyllrb.com/docs/github-pages/ for more info
 #baseurl: ''
-baseurl: /ATARC-demo
+baseurl: /Product-A
 
 # Author/Organization info to be displayed in the templates
 author:
   name: Collin McRae
-  url: http://github.com/ATARC-Example/ATARC-Demo
+  url: http://github.com/ATARC-Example/Product-A
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl:
@@ -34,14 +31,8 @@ logoalt:
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: ATARC Home
+- text: Product A Home
   url: ./
-  internal: true
-- text: Mobile Working Group
-  url: ./mobile
-  internal: true
-- text: Big Data Working Group
-  url: ./bigdata
   internal: true
 
 
