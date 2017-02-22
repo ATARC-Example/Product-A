@@ -21,8 +21,5 @@ title: my title
 This snippet indicates the new page you are creating uses the 'page' template, and has the title 'my title'.
 New templates can be created for pages that serve different purposes, but for right now just use the 'page' template.
 
-## Collaboration vs Contribution
-This doesn't make sense?
-
 ## Ready to get started?
 Make a new page! <a href="https://github.com/ATARC-Example/ATARC-demo/new/master/_pages">New Page</a>
