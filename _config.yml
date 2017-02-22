@@ -31,7 +31,7 @@ logoalt:
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Product A Home
+- text: Home
   url: ./
   internal: true
 
